@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="SPORTS",T-Sports [ICC]
+http://10.16.100.213:8080/hls/tsports.m3u8
+#EXTINF:-1 group-title="SPORTS",PTV-Sports [ICC]
+http://10.16.100.206:8080/hls/PtvSportsHD.m3u8
+#EXTINF:-1 group-title="SPORTS",A-Sports [ICC]
+http://10.16.100.202:8080/hls/asports.m3u8

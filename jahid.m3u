@@ -13,3 +13,29 @@ https://live.mncdn.shop/f064e069-8861-43d5-ac79-828b029a50a1/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/lotusmacau_prd/default/index.mpd
+#EXTINF:-1 group-title="Jahid IPTV",Skynz1
+https://sixseven.attitude.my.id/skynz1/index.m3u8
+
+#EXTINF:-1 group-title="Jahid IPTV",Skynz2
+https://sixseven.attitude.my.id/skynz2/index.m3u8
+
+#EXTINF:-1 group-title="Jahid IPTV",Skynz3
+https://sixseven.attitude.my.id/skynz3/index.m3u8
+
+#EXTINF:-1 group-title="Jahid IPTV",Skynz4
+https://sixseven.attitude.my.id/skynz4/index.m3u8
+
+#EXTINF:-1 group-title="Jahid IPTV",Skynz5
+https://sixseven.attitude.my.id/skynz5/index.m3u8
+
+#EXTINF:-1 group-title="Jahid IPTV",Skynz6
+https://sixseven.attitude.my.id/skynz6/index.m3u8
+
+#EXTINF:-1 group-title="Jahid IPTV",Skynz7
+https://sixseven.attitude.my.id/skynz7/index.m3u8
+
+#EXTINF:-1 group-title="Jahid IPTV",Skynz8
+https://sixseven.attitude.my.id/skynz8/index.m3u8
+
+#EXTINF:-1 group-title="Jahid IPTV",Skynz9
+https://sixseven.attitude.my.id/skynz9/index.m3u8

@@ -13,11 +13,6 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesu
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
 
-#EXTINF:-1 group-title="Jahid IPTV" tvg-logo="https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_high.jpg",STAR SPORTS 1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=1106
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://keys.vodep39240327.workers.dev/?id=1106.mpd
 
 
 #EXTINF:-1 group-title="Jahid IPTV",Nagorik TV
@@ -53,6 +48,38 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/lotusmacau_prd/default/ind
 https://playztv-apps.pages.dev/star-sports2/index.m3u8
 #EXTINF:-1 group-title="Jahid IPTV",Bein Sports 1
 https://ww.dooballfree.vip/live/bein1/playlist.m3u8
+
+#EXTINF:-1 group-title="Jahid IPTV",Start Sports 1 sd
+https://hls-coolxtream.vercel.app/channel/167575&format=.m3u8
+#EXTINF:-1 group-title="Jahid IPTV",Start Sports 1 HD
+https://hls-coolxtream.vercel.app/channel/167573&format=.m3u8
+#EXTINF:-1 group-title="Jahid IPTV",Start Sports 1 HD Hindi
+https://hls-coolxtream.vercel.app/channel/167573&format=.m3u8
+#EXTINF:-1 group-title="Jahid IPTV",Start Sports 2 HD
+https://hls-coolxtream.vercel.app/channel/167576&format=.m3u8
+#EXTINF:-1 group-title="Jahid IPTV",Start Sports 2 HD hindi
+https://hls-coolxtream.vercel.app/channel/167574&format=.m3u8
+#EXTINF:-1 group-title="Jahid IPTV",Start Sports 3
+https://hls-coolxtream.vercel.app/channel/167576&format=.m3u8
+#EXTINF:-1 group-title="Jahid IPTV",PTV Sports
+https://hls-coolxtream.vercel.app/channel/217968&format=.m3u8
+#EXTINF:-1 group-title="Jahid IPTV",A Sports
+https://hls-coolxtream.vercel.app/channel/219689&format=.m3u8
+#EXTINF:-1 group-title="Jahid IPTV",Ten Sports
+https://hls-coolxtream.vercel.app/channel/167569&format=.m3u8
+#EXTINF:-1 group-title="Jahid IPTV",Willow HD
+https://hls-coolxtream.vercel.app/channel/167583&format=.m3u8
+#EXTINF:-1 group-title="Jahid IPTV",Willow HD 2
+https://hls-coolxtream.vercel.app/channel/167582&format=.m3u8
+#EXTINF:-1 group-title="Jahid IPTV",Sky Sports
+https://hls-coolxtream.vercel.app/channel/346379&format=.m3u8
+
+#EXTINF:-1 group-title="Jahid IPTV",Star Movies
+https://hls-coolxtream.vercel.app/channel/66213&format=.m3u8
+#EXTINF:-1 group-title="Jahid IPTV",Star Gold Select HD
+https://hls-coolxtream.vercel.app/channel/221257&format=.m3u8
+#EXTINF:-1 group-title="Jahid IPTV",Star Gold HD
+https://hls-coolxtream.vercel.app/channel/112982&format=.m3u8
 
 
 #EXTINF:-1 tvg-name=" " group-title="Cricket 🏏", Star T20 World Cup 26

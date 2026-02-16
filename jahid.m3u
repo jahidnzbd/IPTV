@@ -1,4 +1,96 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/btvworld.png",BTV World
+http://80.225.254.171:5000/live/BTVWorld/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/atnbangla.png",ATN Bangla
+http://80.225.254.171:5000/live/ATNBangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/atnnews.png",ATN News
+http://80.225.254.171:5000/live/ATNNews/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/bijoytv.png",Bijoy TV
+http://80.225.254.171:5000/live/BijoyTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/asiantv.png",Asian TV
+http://80.225.254.171:5000/live/AsianTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/banglavision.png",Bangla Vision
+http://80.225.254.171:5000/live/BanglaVision/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/channel24.png",Channel 24
+http://80.225.254.171:5000/live/Channel24/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/channeli.png",Channel I
+http://80.225.254.171:5000/live/ChannelI/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/dbcnews.png",DBC News
+http://80.225.254.171:5000/live/DBCNews/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/channel9.png",Channel 9
+http://80.225.254.171:5000/live/Channel9/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/deeptotv.png",Deepto TV
+http://80.225.254.171:5000/live/DeeptoTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/deshtv.png",Desh TV
+http://80.225.254.171:5000/live/DeshTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/ekusheytv.png",Ekushey Tv
+http://80.225.254.171:5000/live/EkusheyTv/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/tsports.png",T Sports HD
+http://80.225.254.171:5000/live/TSportsHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/tsports.png",T Sports
+http://80.225.254.171:5000/live/TSports/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/independent.png",Independent TV
+http://80.225.254.171:5000/live/IndependentTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/gtv.png",Gazi TV HD
+http://80.225.254.171:5000/live/GaziTVHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/jamunatv.png",Jamuna TV
+http://80.225.254.171:5000/live/JamunaTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/maasranga.png",Maasranga
+http://80.225.254.171:5000/live/Maasranga/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/mytv.png",My TV
+http://80.225.254.171:5000/live/MyTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/news24.png",News 24
+http://80.225.254.171:5000/live/News24/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/rtv.png",RTV
+http://80.225.254.171:5000/live/RTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/somoytv.png",Somoy Tv
+http://80.225.254.171:5000/live/SomoyTv/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/colorsbangla.png",Colors Bangla
+http://80.225.254.171:5000/live/ColorsBangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/indiatoday.png",India Today
+http://80.225.254.171:5000/live/IndiaToday/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/redbulltv.png",RedBull TV
+http://80.225.254.171:5000/live/RedBullTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/russiatoday.png",Russia Today
+http://80.225.254.171:5000/live/RussiaToday/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/bloomberg.png",Bloomberg TV
+http://80.225.254.171:5000/live/BloombergTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/aljazeera.png",Aljazeera
+http://80.225.254.171:5000/live/Aljazeera/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/enterr10.png",Enterr 10
+http://80.225.254.171:5000/live/Enterr10/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/discoveryhdworld.png",Discovery HD
+http://80.225.254.171:5000/live/DiscoveryHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/animalplanet.png",Animal Planet
+http://80.225.254.171:5000/live/AnimalPlanet/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/sonytv.png",Sony TV HD
+http://80.225.254.171:5000/live/SonyTVHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/sonyaath.png",Sony Aath
+http://80.225.254.171:5000/live/SonyAath/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/sonymaxhd.png",Sony Max HD
+http://80.225.254.171:5000/live/SonyMaxHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/ten1.png",Sony Ten 1 HD
+http://80.225.254.171:5000/live/SonyTen1HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/ten2.png",Sony Ten 2 HD
+http://80.225.254.171:5000/live/SonyTen2HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/ten3.png",Sony Ten 3 HD
+http://80.225.254.171:5000/live/SonyTen3HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/starsports1hd.png",Star Sports 1 HD
+http://80.225.254.171:5000/live/StarSports1HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/starsports2hd.png",Star Sports 2 HD
+http://80.225.254.171:5000/live/StarSports2HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/starsportsselect1.png",Star Sports Select 1
+http://80.225.254.171:5000/live/StarSportsSelect1/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/starsportsselect2.png",Star Sports Select 2
+http://80.225.254.171:5000/live/StarSportsSelect2/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/starjalshahd.png",Star Jalsha HD
+http://80.225.254.171:5000/live/StarJalshaHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/stargoldhd.png",Star Gold HD
+http://80.225.254.171:5000/live/StarGoldHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/zeebanglahd.png",Zee Bangla HD
+http://80.225.254.171:5000/live/ZeeBanglaHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://plusbox.tv/img/channels/zeecinemahd.png",Zee Cinema HD
+http://80.225.254.171:5000/live/ZeeCinemaHD/index.m3u8
 #EXTINF:-1 group-title="bangla", TSports HD
 https://satoshi-cors.herokuapp.com/http://tvn2.chowdhury-shaheb.com/tsport/index.m3u8
 #EXTINF:-1 group-title="Jahid IPTV",T SPorts HD
